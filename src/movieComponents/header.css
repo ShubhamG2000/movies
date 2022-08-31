@@ -1,0 +1,18 @@
+.header{
+    display :flex;
+    margin-inline-start: 1rem;
+}
+
+.header>*{
+    margin-left:1rem;
+}
+
+.pageLogo{
+    height:80%;
+    margin-top:1.25rem;
+}
+
+a{
+    text-decoration:none;
+    color:rgb(49, 126, 234);
+}

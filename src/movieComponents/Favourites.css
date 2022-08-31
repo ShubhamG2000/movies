@@ -1,0 +1,12 @@
+.favourite_img{
+    height:5rem;
+}
+
+.genreBox{
+    display:flex;
+    
+}
+
+.genreBox>*{
+    margin-left: 1rem;
+}

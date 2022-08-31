@@ -1,0 +1,21 @@
+.trending_div{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+
+}
+
+.movie_panel{
+    text-align: center;
+    /* border : 1px solid red; */
+    height:35rem;
+    width:25rem;
+    margin:2rem;
+}
+.text{
+    padding:5px;
+}
+
+.movie_poster{
+    height:75%;
+}
